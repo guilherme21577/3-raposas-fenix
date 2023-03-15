@@ -2,5 +2,6 @@ body{
   background-color: darkred;#383d58
 }
 
-
+h1 {text-align: center;}
 h1{background-color: darkslategrey;}
+img {margin-left: 350px;}

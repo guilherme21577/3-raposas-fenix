@@ -1,12 +1,19 @@
-
-.cabeçalho{
-background-color: cyan;
-color: black;
-
-
-
+*{
+    margin: 0;
+    padding: 0;
 }
-;
-h1 {text-align: center;}
-h1{background-color: darkslategrey;}
-img {margin-left: 350px;}
+.cabeçalho{
+    background-color: blueviolet;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabeçalho-lista-item{
+    width: 10%;
+}
+.cabeçalho-lista-item{
+   display: inline-block;
+   margin: 0 16px;
+}

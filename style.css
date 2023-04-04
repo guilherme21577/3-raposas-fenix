@@ -12,6 +12,10 @@
 }
 .cabeçalho-lista-item{
     width: 10%;
+background: white;
+display: flex;
+justify-content: center;
+align-items: center;
 }
 .cabeçalho-lista-item{
    display: inline-block;
@@ -19,5 +23,5 @@
 }
 .escola{
     display: flex;
-     background: ;
+     background-image: linear-gradient( red,  blue )
 } 
